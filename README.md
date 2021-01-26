@@ -1,2 +1,1 @@
-# Jiu-Jitsu_Subs
-Analysis and cleaning of jiu jitsu dataset containing information over 6000 submission only matches.
+Jitz: Analyis and Cleaning of submission only data set of 6000 matches in jiu-jitsu.
